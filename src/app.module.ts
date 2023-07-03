@@ -19,4 +19,3 @@ import { UserModule } from './user/user.module';
   providers: [AppService],
 })
 export class AppModule {}
-//
